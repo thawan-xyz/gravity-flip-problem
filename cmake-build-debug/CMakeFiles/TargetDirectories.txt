@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/gravity-flip-problem/cmake-build-debug/CMakeFiles/gravity_flip_problem.dir
+C:/Users/Thawan/CLionProjects/gravity-flip-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/gravity-flip-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
